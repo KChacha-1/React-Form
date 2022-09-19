@@ -1,4 +1,4 @@
-React Form with Table
+## React Form with Table
 
 This project is a simple react html form with a table that pushes all the details entered from the form. This also has basic filtering for name, numbers and email.
 
