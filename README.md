@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+React Form with Table
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a simple react html form with a table that pushes all the details entered from the form. This also has basic filtering for name, numbers and email.
 
 ## Available Scripts
 
