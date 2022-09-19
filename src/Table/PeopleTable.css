@@ -1,0 +1,7 @@
+th, td {
+    border: 1px solid rgb(138, 128, 128);
+}
+table,tbody{
+    position: relative;
+    margin-top: 25%;
+}
