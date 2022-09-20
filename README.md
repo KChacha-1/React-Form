@@ -1,6 +1,10 @@
 ## React Form with Table
 
 This project is a simple react html form with a table that pushes all the details entered from the form. This also has basic filtering for name, numbers and email.
+<img width="769" alt="image" src="https://user-images.githubusercontent.com/47930630/191347369-3a2a4640-dce4-4485-9c7c-41f3e7c780ce.png">
+Table with data passed 
+<img width="903" alt="image" src="https://user-images.githubusercontent.com/47930630/191347700-c48b1eb1-cd83-4524-bd83-939c811b15d8.png">
+
 
 ## Available Scripts
 
